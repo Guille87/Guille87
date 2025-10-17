@@ -52,11 +52,13 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guille87&show_icons=true&theme=tokyonight" height="190" style="margin-right:10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guille87&theme=tokyonight" height="190" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guille87&layout=compact&langs_count=8&theme=tokyonight" height="230" />
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guille87&show_icons=true&theme=tokyonight" 
+       height="190" width="45%" style="border-radius:5px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guille87&theme=tokyonight" 
+       height="190" width="49%" style="border-radius:5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guille87&layout=compact&langs_count=8&theme=tokyonight" 
+       height="230" width="100%" style="border-radius:5px;" />
 </div>
 
 ---
@@ -64,3 +66,6 @@
 ## 📬 Contacto
 [![Outlook](https://img.shields.io/static/v1?message=Hotmail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge)](mailto:guillermo_amado@hotmail.com?subject=Consulta%20de%20Trabajo)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/guillermo-amado-díaz/)
+
+---
+
