@@ -69,3 +69,8 @@
 
 ---
 
+<h2 align="center">🐍 La serpiente se alimenta de mis commits</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Guille87/Guille87/output/snake.svg" alt="Snake animation" />
+</p>
