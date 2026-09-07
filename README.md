@@ -14,8 +14,8 @@
 
 Desarrollador full stack con el foco puesto en los videojuegos. Me gusta entender un proyecto de punta a punta: la lógica de servidor, la interfaz, los datos y la jugabilidad. Trabajo sobre todo con **Unity y C#**, y me muevo con soltura entre **Python, Java, Kotlin y JavaScript** según lo que pida cada proyecto.
 
-- 🐈 &nbsp;Ahora mismo desarrollo **Purrfect Chaos**, un plataformas de acción 2D en Unity
-- 📱 &nbsp;Tengo publicada en Google Play **Sudoku Master**, hecha con Kotlin y Jetpack Compose
+- 🎮 &nbsp;Ahora mismo desarrollo **un nuevo juego 2D en Unity** (**Purrfect Chaos** ya está terminado y jugable)
+- 📱 &nbsp;Tengo publicada en Google Play **Sudoku Master: Classic Logic**, hecha con Kotlin y Jetpack Compose
 - 🧠 &nbsp;Aprendo **arquitectura backend y escalabilidad** para que mis proyectos aguanten al crecer
 - 🧩 &nbsp;Disfruto el **ciclo completo**: frontend, backend, lógica de juego y sistemas de datos
 - ⚙️ &nbsp;Me obsesiona el **rendimiento y la estabilidad**: que las cosas vayan finas y no se rompan
@@ -34,7 +34,7 @@ Juego de plataformas y acción en 2D donde juegas como un gato travieso que romp
 <a href="https://osirisftw.itch.io/purrfect-chaos"><img src="https://img.shields.io/badge/Jugar-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jugar" /></a>
 <a href="https://github.com/Guille87/purrfect-chaos"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
 
-### 🔢 Sudoku Master
+### 🔢 Sudoku Master: Classic Logic
 
 Aplicación de Sudoku para Android, publicada en Google Play. Interfaz moderna construida íntegramente con Jetpack Compose.
 
