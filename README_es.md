@@ -1,47 +1,47 @@
 <p align="center">
   <a href="https://github.com/Guille87">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&fontSize=52&height=90&width=1178&text=Hi%21%20I%27m%20Guillermo" alt="Hi! I'm Guillermo" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&fontSize=52&height=90&width=1178&text=%C2%A1Hola%21%20Soy%20Guillermo" alt="¡Hola! Soy Guillermo" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&height=44&lines=Unity+%26+C%23+game+development;Apps%2C+bots%2C+web+and+multiplayer+systems;Learning+something+new+with+every+project" alt="Headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&height=44&lines=Desarrollo+de+videojuegos+con+Unity+y+C%23;Apps%2C+bots%2C+webs+y+sistemas+multijugador;Aprendo+algo+nuevo+en+cada+proyecto" alt="Titulares" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-7aa2f7?style=for-the-badge" alt="English (current)" />
-  <a href="README_es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-30363d?style=for-the-badge" alt="Leer en español" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/English-30363d?style=for-the-badge" alt="Read in English" /></a>
+  <img src="https://img.shields.io/badge/Espa%C3%B1ol-7aa2f7?style=for-the-badge" alt="Español (actual)" />
 </p>
 
 ---
 
-## 🧭 About Me
+## 🧭 Sobre mí
 
-Full stack developer with a focus on games. I like understanding a project end to end: server logic, interface, data and gameplay. I mostly work with **Unity and C#**, and move comfortably between **Python, Java, Kotlin and JavaScript** depending on what each project needs.
+Desarrollador full stack con el foco puesto en los videojuegos. Me gusta entender un proyecto de punta a punta: la lógica de servidor, la interfaz, los datos y la jugabilidad. Trabajo sobre todo con **Unity y C#**, y me muevo con soltura entre **Python, Java, Kotlin y JavaScript** según lo que pida cada proyecto.
 
-- 🎮 &nbsp;Right now I'm developing **a new 2D game in Unity**
-- 📱 &nbsp;I have **Sudoku Master: Classic Logic** published on Google Play, built with Kotlin and Jetpack Compose
-- 🧠 &nbsp;I'm learning **backend architecture and scalability** so my projects hold up as they grow
-- 🧩 &nbsp;I enjoy the **full cycle**: frontend, backend, game logic and data systems
-- ⚙️ &nbsp;I'm obsessed with **performance and stability**: things should run smooth and not break
-- 🎲 &nbsp;Almost everything I build is a game; it's how I learn fastest and enjoy it the most
+- 🎮 &nbsp;Ahora mismo desarrollo **un nuevo juego 2D en Unity**
+- 📱 &nbsp;Tengo publicada en Google Play **Sudoku Master: Classic Logic**, hecha con Kotlin y Jetpack Compose
+- 🧠 &nbsp;Aprendo **arquitectura backend y escalabilidad** para que mis proyectos aguanten al crecer
+- 🧩 &nbsp;Disfruto el **ciclo completo**: frontend, backend, lógica de juego y sistemas de datos
+- ⚙️ &nbsp;Me obsesiona el **rendimiento y la estabilidad**: que las cosas vayan finas y no se rompan
+- 🎲 &nbsp;Casi todo lo que hago son juegos; es como aprendo más rápido y me lo paso mejor
 
 ---
 
-## 📂 Featured Projects
+## 📂 Proyectos Destacados
 
 ### 🐈 Purrfect Chaos
 
-2D platformer and action game where you play as a mischievous cat breaking objects while dodging guard dogs.
+Juego de plataformas y acción en 2D donde juegas como un gato travieso que rompe objetos mientras evita a los perros guardianes.
 
 `Unity` &nbsp;·&nbsp; `C#` &nbsp;·&nbsp; `ShaderLab`
 
-<a href="https://osirisftw.itch.io/purrfect-chaos"><img src="https://img.shields.io/badge/Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play" /></a>
-<a href="https://github.com/Guille87/purrfect-chaos"><img src="https://img.shields.io/badge/Code-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://osirisftw.itch.io/purrfect-chaos"><img src="https://img.shields.io/badge/Jugar-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jugar" /></a>
+<a href="https://github.com/Guille87/purrfect-chaos"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
 
 ### 🔢 Sudoku Master: Classic Logic
 
-Sudoku app for Android, published on Google Play. Modern interface built entirely with Jetpack Compose.
+Aplicación de Sudoku para Android, publicada en Google Play. Interfaz moderna construida íntegramente con Jetpack Compose.
 
 `Kotlin` &nbsp;·&nbsp; `Jetpack Compose` &nbsp;·&nbsp; `Android`
 
@@ -49,70 +49,70 @@ Sudoku app for Android, published on Google Play. Modern interface built entirel
 
 ### 👾 Galactic Guardian
 
-2D spaceship shooter. Face endless waves of enemy ships and survive as long as you can.
+Juego 2D de naves. Enfrenta hordas interminables de enemigos y aguanta tanto como puedas.
 
 `Python` &nbsp;·&nbsp; `Pygame`
 
-<a href="https://github.com/Guille87/Galactic-Guardian"><img src="https://img.shields.io/badge/Code-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Guille87/Galactic-Guardian"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
 
-### 🗡️ Text-Based RPG
+### 🗡️ Juego de Rol en Texto
 
-Turn-based battle game in Python. Face off against different enemies; playable and complete, though no longer in active development.
+Juego de batalla por turnos en Python. Te enfrentas a distintos enemigos; jugable y completo, aunque ya no está en desarrollo activo.
 
 `Python` &nbsp;·&nbsp; `Pygame`
 
-<a href="https://github.com/Guille87/JuegoRolTexto"><img src="https://img.shields.io/badge/Code-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Guille87/JuegoRolTexto"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
 
-### 🪢 Hangman
+### 🪢 El Ahorcado
 
-The classic Hangman game in Python with a Tkinter GUI.
+El clásico juego del ahorcado en Python con interfaz gráfica en Tkinter.
 
 `Python` &nbsp;·&nbsp; `Tkinter`
 
-<a href="https://github.com/Guille87/El-Ahorcado"><img src="https://img.shields.io/badge/Code-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Guille87/El-Ahorcado"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
 
 ### ⛏️ Difficulty Upgrade
 
-Minecraft datapack that rebalances the game's difficulty: mobs, progression and rules. Written 100% in `mcfunction`. _(Private repository)_
+Datapack de Minecraft que reescala la dificultad del juego: mobs, progresión y reglas. Escrito 100% en `mcfunction`. _(Repositorio privado)_
 
 `Minecraft` &nbsp;·&nbsp; `mcfunction`
 
 ### 🤖 Vektra Bot
 
-Discord bot with commands and automations for servers. _(Private repository)_
+Bot de Discord con comandos y automatizaciones para servidores. _(Repositorio privado)_
 
 `JavaScript` &nbsp;·&nbsp; `Node.js`
 
 ### ✅ Django Tarea Lista
 
-Web app for managing to-do lists with user authentication.
+Aplicación web para gestionar listas de tareas con autenticación de usuarios.
 
 `Python` &nbsp;·&nbsp; `Django` &nbsp;·&nbsp; `HTML` &nbsp;·&nbsp; `CSS`
 
-<a href="https://github.com/Guille87/Django-TareaLista"><img src="https://img.shields.io/badge/Code-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Guille87/Django-TareaLista"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
 
 ### 🧮 JavaCalcFX
 
-Java desktop app built with JavaFX: tools for math calculations (areas, volumes, leap years and more).
+Aplicación de escritorio en Java con JavaFX: herramientas para cálculos matemáticos (áreas, volúmenes, años bisiestos y más).
 
 `Java` &nbsp;·&nbsp; `JavaFX`
 
-<a href="https://github.com/Guille87/JavaCalcFX"><img src="https://img.shields.io/badge/Code-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/Guille87/JavaCalcFX"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
 
 ### 🌐 Portfolio
 
-My personal website, a lightweight static site with my projects and contact info.
+Mi web personal, un sitio estático ligero donde recojo proyectos y contacto.
 
 `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `JavaScript`
 
-<a href="https://guille87.github.io/"><img src="https://img.shields.io/badge/Visit-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit" /></a>
-<a href="https://github.com/Guille87/Guille87.github.io"><img src="https://img.shields.io/badge/Code-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://guille87.github.io/"><img src="https://img.shields.io/badge/Visitar-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar" /></a>
+<a href="https://github.com/Guille87/Guille87.github.io"><img src="https://img.shields.io/badge/C%C3%B3digo-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
 
 ---
 
 ## 🧰 Stack
 
-**Languages**
+**Lenguajes**
 
 <p align="left">
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
@@ -125,7 +125,7 @@ My personal website, a lightweight static site with my projects and contact info
   <a href="https://docs.unity3d.com/Manual/SL-Reference.html" target="_blank"><img src="https://img.shields.io/badge/HLSL%20%2F%20ShaderLab-1E1E1E?style=for-the-badge&logo=opengl&logoColor=white" alt="HLSL / ShaderLab" /></a>
 </p>
 
-**Engines & Frameworks**
+**Motores y frameworks**
 
 <p align="left">
   <a href="https://unity.com" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
@@ -140,7 +140,7 @@ My personal website, a lightweight static site with my projects and contact info
   <a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" /></a>
 </p>
 
-**Tools**
+**Herramientas**
 
 <p align="left">
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
@@ -155,20 +155,20 @@ My personal website, a lightweight static site with my projects and contact info
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended-liart.vercel.app/api?username=Guille87&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended-liart.vercel.app/api/top-langs/?username=Guille87&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Most Used Languages" />
+  <img height="165" src="https://github-stats-extended-liart.vercel.app/api?username=Guille87&show_icons=true&locale=es&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-stats-extended-liart.vercel.app/api/top-langs/?username=Guille87&layout=compact&locale=es&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Guille87&theme=tokyonight&hide_border=true&background=00000000" alt="Commit Streak" />
+  <img src="https://streak-stats.demolab.com?user=Guille87&theme=tokyonight&hide_border=true&background=00000000" alt="Racha de commits" />
 </p>
 
 ---
 
-## 📬 Contact
+## 📬 Contacto
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guillermo-amado-díaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -178,7 +178,7 @@ My personal website, a lightweight static site with my projects and contact info
 
 ---
 
-<h2 align="center">🐍 The snake feeds on my commits</h2>
+<h2 align="center">🐍 La serpiente se alimenta de mis commits</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Guille87/Guille87/output/snake.svg" alt="Snake animation" />
